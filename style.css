@@ -40,3 +40,26 @@ h2 {
     padding-right: 25%;
     text-align: center;
 }
+
+section {
+    display: flex;
+
+}
+
+.taka-box {
+    padding: 1%;
+    background-color: gainsboro;
+    color: rgb(87, 81, 81);
+    margin-left: 2%;
+}
+
+.taka-container {
+    padding-left: 25%;
+    padding-bottom: 2%;
+}
+
+.most-used {
+    border: 2px solid red;
+    color: rgb(163, 68, 84);
+    background-color: pink;
+}
