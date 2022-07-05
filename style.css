@@ -1,5 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
+    margin: 0;
 }
 
 h1 {
@@ -155,4 +156,21 @@ span {
     display: flex;
     border: 100px solid cornsilk;
     margin: 5% 10% 5% 10%;
+}
+
+.member {
+    width: 50%;
+    box-shadow: 10px 10px 40px gray;
+    padding: 5%;
+    margin: 2%;
+    text-align: center;
+}
+
+#map {
+    padding-left: 1%;
+    margin-top: 5%;
+}
+
+#v-member {
+    margin-bottom: 10%;
 }
