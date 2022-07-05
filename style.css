@@ -88,3 +88,41 @@ hr {
     background-color: gray;
     margin: 0 20%;
 }
+
+.help-box {
+    border-radius: 10px;
+    padding: 2% 1%;
+    margin: 3%;
+    box-shadow: 10px 10px 40px gray;
+    text-align: center;
+}
+
+#medicine {
+    background-color: rgb(235, 217, 220);
+}
+
+#tv {
+    background-color: rgb(216, 248, 248);
+}
+
+#water {
+    background-color: rgb(247, 247, 194);
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+    padding: 2% 5% 5% 5%;
+}
+
+#footer-first-line {
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: rgba(219, 3, 3, 0.92);
+    margin-bottom: .5%;
+}
+
+span {
+    color: whitesmoke;
+    font-size: 10px;
+}
