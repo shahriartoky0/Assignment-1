@@ -126,3 +126,15 @@ span {
     color: whitesmoke;
     font-size: 10px;
 }
+
+#email-input {
+
+    border: 0;
+    padding: 0 10%;
+    margin-left: 25%;
+    margin-bottom: 40px;
+    background-color: rgb(203, 195, 195);
+    height: 50px;
+
+
+}
