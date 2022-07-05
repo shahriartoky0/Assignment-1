@@ -6,6 +6,11 @@ h1 {
     font-size: 35px;
 }
 
+h2 {
+    font-size: 30px;
+    font-weight: bolder;
+}
+
 .link-button {
     text-decoration: none;
     background-color: rgb(226, 69, 95);
@@ -15,6 +20,7 @@ h1 {
     background-image: linear-gradient(orange rgb(226, 69, 95));
     font-weight: 500;
 }
+
 
 .first-part {
     background-image: url(images/1st-picture.jpg);
@@ -26,5 +32,11 @@ h1 {
     padding-top: 100px;
     padding-bottom: 50px;
     margin-left: 300px;
+    margin-bottom: 100px;
+}
 
+.center-text {
+    padding-left: 25%;
+    padding-right: 25%;
+    text-align: center;
 }
