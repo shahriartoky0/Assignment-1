@@ -63,3 +63,16 @@ section {
     color: rgb(163, 68, 84);
     background-color: pink;
 }
+
+.input {
+
+    border: 0;
+    border-bottom: 3px solid gray;
+    padding: 0 30%;
+    margin-left: 15%;
+
+}
+
+.button-two {
+    padding: 3% 0 2% 48%;
+}
