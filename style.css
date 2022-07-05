@@ -130,11 +130,29 @@ span {
 #email-input {
 
     border: 0;
-    padding: 0 10%;
-    margin-left: 25%;
-    margin-bottom: 40px;
-    background-color: rgb(203, 195, 195);
+
     height: 50px;
+    width: 950px;
+    margin-left: 0%;
+    background-color: rgb(203, 195, 195);
+}
 
+#suscribe-button {
+    text-decoration: none;
+    background-color: rgb(226, 69, 95);
+    background-image: linear-gradient(orange rgb(226, 69, 95));
+    color: white;
+    font-size: 20px;
+    border: 0;
+    padding: 0%;
+    padding-bottom: 25%;
+    height: 50px;
+    width: 200px;
+    margin-left: 0%;
+}
 
+#email-part {
+    display: flex;
+    border: 100px solid cornsilk;
+    margin: 5% 10% 5% 10%;
 }
