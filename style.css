@@ -67,12 +67,18 @@ section {
 .input {
 
     border: 0;
-    border-bottom: 3px solid gray;
-    padding: 0 30%;
-    margin-left: 15%;
+    padding: 0 33%;
+    margin-left: 12%;
 
 }
 
 .button-two {
-    padding: 3% 0 2% 48%;
+    padding: 3% 0 2% 47%;
+}
+
+hr {
+    color: gray;
+    height: 2px;
+    background-color: gray;
+    margin: 0 20%;
 }
