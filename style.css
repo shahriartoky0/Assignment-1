@@ -1,0 +1,30 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 35px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-color: rgb(226, 69, 95);
+    padding: 10px 15px;
+    color: white;
+    font-size: 20px;
+    background-image: linear-gradient(orange rgb(226, 69, 95));
+    font-weight: 500;
+}
+
+.first-part {
+    background-image: url(images/1st-picture.jpg);
+    background-repeat: no-repeat;
+    color: white;
+    text-align: center;
+    padding-right: 500px;
+    padding-left: 250px;
+    padding-top: 100px;
+    padding-bottom: 50px;
+    margin-left: 300px;
+
+}
